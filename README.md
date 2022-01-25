@@ -1,8 +1,6 @@
 # ECET344FinalProject
 The Final Project For ECET344
 This project was made for the Fall 2021 semester at NJIT
-Desingers and Programmers: Harry Blanda and Kevin Branco
-
  *   Name: Harry A. Blanda and Kevin Branco
  *   Date: 12/9/2021
  *   Course ID: ECET 344-001
